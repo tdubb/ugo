@@ -5,10 +5,10 @@ description = "Casper theme from Ghost Foundation, Plus particles.js"
 homepage = "https://syui.github.io/hugo-theme-air"
 tags = ["blog"]
 features = ["disqus", "google analytics","share"]
-min_version=0.01
+min_version=0.14
 
 [author]
-  name = "Ichinose Syuu"
+  name = "syui"
   homepage = "https://syui.github.io"
 
 [original]
