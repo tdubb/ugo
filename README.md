@@ -22,6 +22,11 @@ $ hugo server
 ---------------------------------
 $ curl 127.0.0.1:1313/hugo-theme-air 
 ```
+## Background Image
+
+[https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995](https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995)
+
+...`slow`
 
 ## Features
 
