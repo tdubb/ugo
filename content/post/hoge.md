@@ -1,21 +1,21 @@
 +++
-author = "syui"
+author = "Tyler"
 comments = false
-date = "2015-07-24T11:12:45+09:00"
+date = "2016-03-05 20:26:03 -0600"
 draft = false
 image = ""
 menu = ""
 share = false
 slug = "profile"
-title= "syui"
+title= "Tyler"
 +++
 
 <img src="https://raw.githubusercontent.com/mba-hack/images/master/phoenix/phoenix_world.png" height="272" width="272" alt="syui">
 
 ## Profile
 
-- GitHub : [syui](https://github.com/syui)
+- GitHub : [tdubb](https://github.com/tdubb)
 
-- Twitter : [syui__](https://twitter.com/syui__)
+- Twitter : [DevHouseATX](https://twitter.com/devhouseatx)
 
-- Blog : [MBA-HACK2](https://syui.github.io/)
+<!-- - Blog : [MBA-HACK2](https://syui.github.io/) -->

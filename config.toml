@@ -1,23 +1,23 @@
 BaseUrl= "http://syui.github.io/hugo-theme-air/"
 LanguageCode= "en-US"
-Title= "hugo-theme-air"
+Title= "DevHouseATX"
 paginate = 5
 DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2015"
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "A House Dedicated To The Development Of Programmers"
   cover = "images/cover.jpg"
-  author = "syui"
-  authorlocation = "Japan"
+  author = "Tyler"
+  authorlocation = "Austin, Texas"
   authorwebsite = "https://syui.github.io"
   bio= "my bio"
   logo = "images/phoenix_world.png"
   googleAnalyticsUserID = "UA-64985747-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feedly.com/i/subscription/feed/https://syui.github.io/atom.xml"
-  githubName = "syui"
-  twitterName = "syui__"
+  githubName = "tdubb"
+  twitterName = "devhouseatx"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
