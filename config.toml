@@ -12,7 +12,7 @@ canonifyurls = true
   author = "Tyler"
   authorlocation = "Austin, Texas"
   authorwebsite = "https://syui.github.io"
-  bio= "my bio"
+  bio= "Work at BedWatch and run DevHouseATX"
   logo = "images/phoenix_world.png"
   googleAnalyticsUserID = "UA-64985747-4"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
